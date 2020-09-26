@@ -1,18 +1,17 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "Project idea",
     "keywords": [
-      "markdown",
-      "publishing",
-      "manubot"
+      "idea",
+      "project",
+      "idea"
     ],
     "lang": "en-US",
     "date-meta": "2020-09-26",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Tiago Lubiana"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-09-26\" />\n<meta name=\"citation_publication_date\" content=\"2020-09-26\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/ideas_rootstock/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/ideas_rootstock/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/ideas_rootstock/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/ideas_rootstock/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/ideas_rootstock/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/ideas_rootstock/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Project idea\" />\n<meta name=\"citation_title\" content=\"Project idea\" />\n<meta property=\"og:title\" content=\"Project idea\" />\n<meta property=\"twitter:title\" content=\"Project idea\" />\n<meta name=\"dc.date\" content=\"2020-09-26\" />\n<meta name=\"citation_publication_date\" content=\"2020-09-26\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Computational Systems Biology Laboratory, University of São Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/ideas_rootstock/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/ideas_rootstock/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/ideas_rootstock/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/ideas_rootstock/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/ideas_rootstock/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/ideas_rootstock/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/ideas_rootstock/v/46078ec6737e6b17dc9b68bc9f63b9058652f211/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/ideas_rootstock/v/46078ec6737e6b17dc9b68bc9f63b9058652f211/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/ideas_rootstock/v/46078ec6737e6b17dc9b68bc9f63b9058652f211/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,46 +24,23 @@
     "date": "September 26, 2020",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "lubianat",
+        "name": "Tiago Lubiana",
+        "initials": "TL",
+        "orcid": "0000-0003-2473-2313",
+        "email": "tiago.lubiana.alves@usp.br",
         "affiliations": [
-          "Department of Something, University of Whatever"
-        ],
-        "funders": [
-          "Grant XXXXXXXX"
+          "Computational Systems Biology Laboratory, University of São Paulo, Brazil"
         ],
         "affiliation_numbers": [
           1
-        ]
-      },
-      {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
-        "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
-        ],
-        "affiliation_numbers": [
-          1,
-          2
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Computational Systems Biology Laboratory, University of São Paulo, Brazil",
         "affiliation_number": 1
-      },
-      {
-        "affiliation": "Department of Whatever, University of Something",
-        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -72,15 +48,15 @@
       "repo_slug": "lubianat/ideas_rootstock",
       "repo_owner": "lubianat",
       "repo_name": "ideas_rootstock",
-      "commit": "97273a97dfc4ba3653bd1635b3c80962a8cd9586",
-      "triggering_commit": "97273a97dfc4ba3653bd1635b3c80962a8cd9586",
-      "build_url": "https://github.com/lubianat/ideas_rootstock/commit/97273a97dfc4ba3653bd1635b3c80962a8cd9586/checks",
+      "commit": "46078ec6737e6b17dc9b68bc9f63b9058652f211",
+      "triggering_commit": "46078ec6737e6b17dc9b68bc9f63b9058652f211",
+      "build_url": "https://github.com/lubianat/ideas_rootstock/commit/46078ec6737e6b17dc9b68bc9f63b9058652f211/checks",
       "job_url": "https://github.com/lubianat/ideas_rootstock/runs/run3"
     },
     "html_url": "https://lubianat.github.io/ideas_rootstock/",
     "pdf_url": "https://lubianat.github.io/ideas_rootstock/manuscript.pdf",
-    "html_url_versioned": "https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/",
-    "pdf_url_versioned": "https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/manuscript.pdf",
+    "html_url_versioned": "https://lubianat.github.io/ideas_rootstock/v/46078ec6737e6b17dc9b68bc9f63b9058652f211/",
+    "pdf_url_versioned": "https://lubianat.github.io/ideas_rootstock/v/46078ec6737e6b17dc9b68bc9f63b9058652f211/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc",
     "manuscript_stats": {
