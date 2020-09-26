@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lubianat/ideas_rootstock/tree/gh-pages) branch hosts the contents of this directory at <https://lubianat.github.io/ideas_rootstock/>.
-The permalink for this webpage version is <https://lubianat.github.io/ideas_rootstock/v/46078ec6737e6b17dc9b68bc9f63b9058652f211/>.
+The permalink for this webpage version is <https://lubianat.github.io/ideas_rootstock/v/8d51b2c4b4f23b6403b8c8ac2ca4174dc54bfb7b/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lubianat.github.io/ideas_rootstock/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`46078ec6737e6b17dc9b68bc9f63b9058652f211`](https://github.com/lubianat/ideas_rootstock/commit/46078ec6737e6b17dc9b68bc9f63b9058652f211).
+[`8d51b2c4b4f23b6403b8c8ac2ca4174dc54bfb7b`](https://github.com/lubianat/ideas_rootstock/commit/8d51b2c4b4f23b6403b8c8ac2ca4174dc54bfb7b).
