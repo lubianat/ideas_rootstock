@@ -57,10 +57,10 @@ cd $REPO
 git remote add rootstock https://github.com/lubianat/ideas_rootstock.git
 
 # Option A: Set origin URL using its web address
-git remote set-url origin https://github.com/$OWNER/$REPO.git
+#git remote set-url origin https://github.com/$OWNER/$REPO.git
 
-# Option B: If GitHub SSH key access is not enabled for OWNER, run the following command instead
-# git remote set-url origin git@github.com:$OWNER/$REPO.git
+# Option B: If GitHub SSH key access is enabled for OWNER, run the following command instead
+git remote set-url origin git@github.com:$OWNER/$REPO.git
 ```
 
 Next, you must create an empty GitHub repository. This can be done manually at <https://github.com/new>.
