@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/ideas_rootstock/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/ideas_rootstock/v/6f7e1bb620cf64ea66139836bccf661c5422599e/" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/" />
 
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/ideas_rootstock/v/6f7e1bb620cf64ea66139836bccf661c5422599e/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/ideas_rootstock/v/6f7e1bb620cf64ea66139836bccf661c5422599e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/ideas_rootstock/v/6f7e1bb620cf64ea66139836bccf661c5422599e/))
+([permalink](https://lubianat.github.io/ideas_rootstock/v/97273a97dfc4ba3653bd1635b3c80962a8cd9586/))
 was automatically generated
-from [lubianat/ideas_rootstock@6f7e1bb](https://github.com/lubianat/ideas_rootstock/tree/6f7e1bb620cf64ea66139836bccf661c5422599e)
+from [lubianat/ideas_rootstock@97273a9](https://github.com/lubianat/ideas_rootstock/tree/97273a97dfc4ba3653bd1635b3c80962a8cd9586)
 on September 26, 2020.
 </em></small>
 
